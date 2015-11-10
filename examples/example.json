@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "10.10.10.10",
+    "port": 2323
+  },
+  "node":{
+    "_include":"example2.json"
+  },
+  "yaml": {
+    "_include": "example.yml"
+  },
+  "python": {"_include": "example.py"},
+  "ini": {"_include":"example.ini"}
+}
